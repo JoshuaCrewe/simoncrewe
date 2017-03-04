@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Simon Crewe"
-baseURL = "http://example.org/"
+baseURL = "https://joshuacrewe.github.io/simoncrewe"
 theme= "casper"
 publishDir = "docs"
 canonifyurls = true

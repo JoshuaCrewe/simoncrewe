@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.org/page/about/</loc>
+    <loc>https://joshuacrewe.github.io/simoncrewe/page/about/</loc>
     <lastmod>2017-03-03T15:00:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/welcome/</loc>
+    <loc>https://joshuacrewe.github.io/simoncrewe/post/welcome/</loc>
     <lastmod>2017-03-03T14:59:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://joshuacrewe.github.io/simoncrewe/categories/</loc>
     <lastmod>2017-03-03T15:00:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://joshuacrewe.github.io/simoncrewe/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/page/</loc>
+    <loc>https://joshuacrewe.github.io/simoncrewe/page/</loc>
     <lastmod>2017-03-03T15:00:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://joshuacrewe.github.io/simoncrewe/post/</loc>
     <lastmod>2017-03-03T14:59:20+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://joshuacrewe.github.io/simoncrewe/</loc>
     <lastmod>2017-03-03T15:00:56+00:00</lastmod>
     <priority>0</priority>
   </url>

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Simon Crewe</title>
-    <link>http://example.org/page/index.xml</link>
+    <link>https://joshuacrewe.github.io/simoncrewe/page/index.xml</link>
     <description>Recent content in Pages on Simon Crewe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Mar 2017 15:00:56 +0000</lastBuildDate>
-    <atom:link href="http://example.org/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://joshuacrewe.github.io/simoncrewe/page/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>about</title>
-      <link>http://example.org/page/about/</link>
+      <link>https://joshuacrewe.github.io/simoncrewe/page/about/</link>
       <pubDate>Fri, 03 Mar 2017 15:00:56 +0000</pubDate>
       
-      <guid>http://example.org/page/about/</guid>
+      <guid>https://joshuacrewe.github.io/simoncrewe/page/about/</guid>
       <description>&lt;p&gt;This is a small amount of text explaining who I am.&lt;/p&gt;
 </description>
     </item>
