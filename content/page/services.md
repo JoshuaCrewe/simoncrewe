@@ -2,14 +2,13 @@
 author = "Simon Crewe"
 categories = [""]
 comments = false
-date = "2017-03-04T14:22:44+00:00"
+date = "2017-03-04T14:22:44Z"
 share = false
 title = "Services"
 [menu.main]
 weight = 1
 
 +++
-
 1.  Bite Mark Analysis
 
 2.  Age Estimation

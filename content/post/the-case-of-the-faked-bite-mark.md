@@ -2,7 +2,7 @@
 author = "Simon Crewe"
 categories = ["Casebook"]
 comments = false
-date = "2017-03-04T14:20:58+00:00"
+date = "2017-03-04T14:20:58Z"
 share = false
 title = " The case of the faked bite mark"
 
