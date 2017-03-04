@@ -1,34 +1,11 @@
-languageCode = "en-us"
-title = "Simon Crewe"
 baseURL = "https://joshuacrewe.github.io/"
-theme= "casper"
 canonifyurls = true
-    [Params]
-        description = "Forensic Odontologist"
-        # cover = "images/cover.jpg"
-        author = "Simon Crewe"
-        authorlocation = "Plymouth, GB"
-        # authorwebsite = "http://vjeantet.fr"
-        bio= "This is a short Bio"
-        # logo = "images/logo.png"
-        # googleAnalyticsUserID = "UA-79101-12"
-        # Optional RSS-Link, if not provided it defaults to the standard index.xml
-        # RSSLink = "http://feeds.feedburner.com/..."
-        # githubName = "vjeantet"
-        # twitterName = "vjeantet"
-        # facebookName = ""
-        # linkedinName = ""
-        # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
-        hideHUGOSupport = false
-  [params.social]
-        # twitter = "your_twitter"
+languageCode = "en-us"
+theme = "casper"
+title = "Simon Crewe"
 [[menu.main]]
-  name = "Home"
-  weight = -120
-  identifier = "home"
-  url = "/"
-[[menu.main]]
-  name = "About"
-  weight = -110
-  identifier = "about"
-  url = "/page/about"
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+[params.social]
