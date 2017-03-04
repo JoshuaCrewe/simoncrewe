@@ -9,6 +9,15 @@ title = "Services"
 weight = 1
 
 +++
+
+1.  Bite Mark Analysis
+
+2.  Age Estimation
+
+3.  Disaster Victim Identification
+
+4.  Expert Identification for the Courts
+
 ## Bite Mark Analysis
 
 Assailants occasionally leave tooth marks on their victims’ bodies. Unlike a bruise or ‘black eye’, there may be characteristics in the mark which can identify the assailant. There may be characteristics which can exclude other suspects.
