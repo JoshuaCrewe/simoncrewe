@@ -7,4 +7,4 @@ share = false
 title = "Deploy with Forestry.io"
 
 +++
-This is a new post written in Forestry.io to deploy to github pages
+This is a new post written in Forestry.io to deploy to github pages. Updated too.
