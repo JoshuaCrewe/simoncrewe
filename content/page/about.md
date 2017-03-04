@@ -8,7 +8,7 @@ title = "about"
 [menu.main]
 identifier = "about"
 name = "About"
-weight = 2
+weight = 3
 
 +++
 I got into the subject by being my father’s ‘sidekick’ while I was at school. He was a consultant oral surgeon (nowadays known as maxillofacial surgeons), who was invited to give opinions on the facial injuries sustained by murder victims.
