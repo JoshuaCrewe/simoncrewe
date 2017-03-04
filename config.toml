@@ -2,7 +2,6 @@ languageCode = "en-us"
 title = "Simon Crewe"
 baseURL = "https://joshuacrewe.github.io/"
 theme= "casper"
-publishDir = "docs"
 canonifyurls = true
     [Params]
         description = "Forensic Odontologist"
