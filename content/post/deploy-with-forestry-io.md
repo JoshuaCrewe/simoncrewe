@@ -2,7 +2,7 @@
 author = "Simon Crewe"
 categories = ["Case Study"]
 comments = false
-date = "2017-03-04T10:22:33+00:00"
+date = "2017-03-04T10:22:33Z"
 share = false
 title = "Deploy with Forestry.io"
 
