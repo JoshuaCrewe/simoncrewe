@@ -9,13 +9,13 @@ title = "Services"
 weight = 1
 
 +++
-1.  Bite Mark Analysis
+2.  Bite Mark Analysis
 
-2.  Age Estimation
+3.  Age Estimation
 
-3.  Disaster Victim Identification
+4.  Disaster Victim Identification
 
-4.  Expert Identification for the Courts
+5.  Expert Identification for the Courts
 
 ## Bite Mark Analysis
 
