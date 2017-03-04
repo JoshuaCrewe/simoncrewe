@@ -2,6 +2,7 @@ languageCode = "en-us"
 title = "Simon Crewe"
 baseURL = "http://example.org/"
 theme= "casper"
+publishDir = "docs"
 canonifyurls = true
     [Params]
         description = "Forensic Odontologist"
