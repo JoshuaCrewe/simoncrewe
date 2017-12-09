@@ -56,4 +56,4 @@ Evidence offered by the Forensic Pathologist can add weight to an identification
 
 Clothing and possessions are also used to add weight to the evidence, if it can be proved that the missing person was wearing a particularly unique item at the time of death.
 
-DNA processing at present takes a little more time than it appears to on the television, is not always conclusive, and is more expensive. This situation will certainly improve in the future
+DNA processing at present takes a little more time than it appears to on the television, is not always conclusive, and is more expensive. This situation will certainly improve in the future.
