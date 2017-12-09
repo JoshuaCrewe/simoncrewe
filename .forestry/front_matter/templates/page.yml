@@ -1,0 +1,44 @@
+---
+hide_body: false
+fields:
+- name: share
+  default: false
+  label: Share
+  type: boolean
+  hidden: false
+- name: comments
+  default: false
+  label: Comments
+  type: boolean
+  hidden: false
+- name: categories
+  default:
+  - ''
+  label: Categories
+  type: list
+  hidden: false
+- name: date
+  default: 2017-03-03 15:00:56 +0000
+  label: Date
+  type: datetime
+  hidden: false
+- name: title
+  default: about
+  label: Title
+  type: text
+  hidden: false
+- name: author
+  default: Simon Crewe
+  label: Author
+  type: text
+  hidden: false
+- name: type
+  default: page
+  label: Type
+  type: text
+  hidden: false
+- name: draft
+  default: false
+  label: Draft
+  type: boolean
+  hidden: false

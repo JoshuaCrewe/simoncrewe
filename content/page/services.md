@@ -9,13 +9,10 @@ title = "Services"
 weight = 1
 
 +++
-2.  Bite Mark Analysis
-
-3.  Age Estimation
-
-4.  Disaster Victim Identification
-
-5.  Expert Identification for the Courts
+1. Bite Mark Analysis
+2. Age Estimation
+3. Disaster Victim Identification
+4. Expert Identification for the Courts
 
 ## Bite Mark Analysis
 
@@ -59,4 +56,4 @@ Evidence offered by the Forensic Pathologist can add weight to an identification
 
 Clothing and possessions are also used to add weight to the evidence, if it can be proved that the missing person was wearing a particularly unique item at the time of death.
 
-DNA processing at present takes a little more time than it appears to on the television, is not always conclusive, and is more expensive. This situation will certainly improve in the future.
+DNA processing at present takes a little more time than it appears to on the television, is not always conclusive, and is more expensive. This situation will certainly improve in the future

@@ -1,0 +1,34 @@
+---
+pages:
+- post/my-new-post.md
+- post/what-is-a-forensic-odontologist.md
+- post/the-case-of-the-faked-bite-mark.md
+- post/st-john-s-lake.md
+hide_body: false
+fields:
+- name: draft
+  default: false
+  label: Draft
+  type: boolean
+  hidden: false
+- name: categories
+  default:
+  - ''
+  label: Categories
+  type: list
+  hidden: false
+- name: comments
+  default: false
+  label: Comments
+  type: boolean
+  hidden: false
+- name: share
+  default: false
+  label: Share
+  type: boolean
+  hidden: false
+- name: author
+  default: Simon Crewe
+  label: Author
+  type: text
+  hidden: false
