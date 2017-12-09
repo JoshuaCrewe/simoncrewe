@@ -4,10 +4,9 @@ categories = [""]
 comments = false
 date = "2017-03-03T15:00:56Z"
 share = false
-title = "about"
+title = "About"
 [menu.main]
 identifier = "about"
-name = "About"
 weight = 3
 
 +++
