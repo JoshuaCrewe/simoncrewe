@@ -10,4 +10,3 @@ url = "/"
 weight = 2
 [params]
 description = "Forensic Odontologist"
-[params.social]
